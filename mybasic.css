@@ -1,0 +1,52 @@
+p 
+{
+	font-size : 17pt ;
+	text-align: justify
+}
+
+h1
+{
+	text-align : center ;
+	font-size : 43pt ;
+	font-family : papyrus ;
+	color: brown;
+
+}
+body
+{
+	background-color : #FAF9F6;
+	font-family: arial ;
+	color: brown;
+	font-family : papyrus ;
+}
+h2
+{
+	font-size : 40pt;
+}
+h3
+{
+	font-size : 30pt ;
+}
+ol
+{
+	font-size : 16pt ;
+}
+
+/* Centering my first image */
+#Food
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 5%;
+}
+
+/* Adjusting color of anchors to theme of page */
+a
+{
+	color:maroon;
+}
+h2,h3
+{
+	color:brown;
+}

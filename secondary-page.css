@@ -1,0 +1,45 @@
+p
+{
+	font-size : 18pt ;
+	text-align: justify
+}
+h1
+{
+	text-align : center ;
+	font-size : 43pt ;
+}
+body
+{
+	background-color : #FAF9F6;
+	font-family: arial ;
+	color: brown;
+	font-family : papyrus ;
+}
+h2
+{
+	font-size : 40pt;
+}
+h3
+{
+	font-size : 30pt ;
+}
+ul
+{
+	font-size : 18pt ;
+}
+
+a   /* Adjusting color of anchors to theme of page */
+{
+	color:maroon;
+}
+h2,h3
+{
+	font-family: fantasy-papyrus ;
+}
+.Food   /* Centering the first image */
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 5%;
+}
