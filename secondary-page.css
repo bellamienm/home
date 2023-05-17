@@ -11,7 +11,6 @@ h1
 body
 {
 	background-color : #FAF9F6;
-	font-family: arial ;
 	color: brown;
 	font-family : papyrus ;
 }
@@ -32,14 +31,19 @@ a   /* Adjusting color of anchors to theme of page */
 {
 	color:maroon;
 }
-h2,h3
-{
-	font-family: fantasy-papyrus ;
-}
 .Food   /* Centering the first image */
 {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
 	margin-bottom: 5%;
+}
+.fine-print
+{
+	font-size: 12pt;
+	font-family : arial;
+}
+.small-heading
+{
+	font-size : 15pt ;
 }
